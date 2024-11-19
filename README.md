@@ -16,6 +16,6 @@ For example, the simplified example document example_F.doc draws out the letter 
 
 Note that the coordinates (0, 0) will always correspond to the same corner of the grid as in this example, so make sure to understand in which directions the x- and y-coordinates increase.
 Specifications:
-Your code must be written in Python (preferred) or JavaScript.
-You may use external libraries.
+1. Your code must be written in Python (preferred) or JavaScript.
+2. You may use external libraries.
 Note that the coordinates (0, 0) will always correspond to the same corner of the grid as in this example, so make sure to understand in which directions the x- and y-coordinates increase.
